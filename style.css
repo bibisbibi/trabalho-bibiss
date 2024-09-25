@@ -7,8 +7,18 @@
 
 .section1 {
     background-color: blueviolet;
+    padding: 100px;
 }
 
 .section2 {
     background-color: blue;
+    padding: 100px;
+}
+
+.cabecalho-imagem{
+    width: 2%;
+}
+
+.rodape{
+    background-color: #2b56e2;
 }
